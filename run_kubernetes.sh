@@ -9,9 +9,9 @@ dockerpath="hidrodixtion/udacitydevops"
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl run udacitydevops
+kubectl run udacitydevops\
     --generator=run-pod/v1\
-    --image=$dockerpath
+    --image=$dockerpath\
     --port=80 --labels app=udacitydevops
 
 # Step 3:
