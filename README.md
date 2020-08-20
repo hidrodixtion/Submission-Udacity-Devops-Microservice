@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/hidrodixtion/Submission-Udacity-Devops-Microservice.svg?style=svg)](https://circleci.com/gh/hidrodixtion/Submission-Udacity-Devops-Microservice)
+
 
 # Submission Udacity Devops Microservice
 
